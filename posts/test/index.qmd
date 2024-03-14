@@ -1,0 +1,12 @@
+---
+title: "test post"
+editor: visual
+---
+
+this is my test post
+
+```{r}
+library(praise)
+praise()
+```
+
