@@ -1,5 +1,5 @@
 ---
-title: "MaternalMortality"
+title: "Maternal Mortality"
 listing:
   contents: posts
   sort: "date desc"
