@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "MaternalMortality"
+  title: "Maternal Mortality During the COVID-19 Pandemic"
   navbar:
     right:
       - about.qmd
