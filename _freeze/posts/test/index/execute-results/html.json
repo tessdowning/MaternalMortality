@@ -1,0 +1,14 @@
+{
+  "hash": "6c6db60f0c12df2d1515755be35b03e4",
+  "result": {
+    "markdown": "---\ntitle: \"test post\"\neditor: visual\n---\n\n\nthis is my test post\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(praise)\npraise()\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"You are tremendous!\"\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
