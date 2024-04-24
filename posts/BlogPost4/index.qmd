@@ -17,7 +17,7 @@ state_df <- ggplot2::map_data("state")
 cdc_maternal_mortality_rate_by_state <- read_csv(here("/Users/tessdowning/Desktop/MaternalMortality/posts/BlogPost4/CopyOfSYEdata/cdc_maternal_mortality_rate_by_state.csv"))
 ```
 
-# Section 1: Mapping Maternal Mortality by State Rates
+
 
 ```{r}
 #| echo: false
