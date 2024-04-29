@@ -1,7 +1,12 @@
 ---
 title: "Blog Post 4: Bringing It All Together"
+author: "Tess Downing"
+date: "04/29/24"
+image: "tie.jpg"
 editor: visual
 ---
+
+![](tie.jpg){width=4in} 
 
 ```{r}
 #| echo: false
@@ -102,7 +107,7 @@ These highlighted states are examples of the steps governments should and should
 
 After taking the time to read these four posts, I hope the readers of this blog were able to gain a better sense of how maternal mortality is measured in the US. These records help us to visualize how the impact of social determinants of health and comorbidities played into these rates throughout the COVID-19 pandemic. If you have any questions about anything written in these blogs, please feel free to contact me via the links in the About section. Thank you so much for taking the time to read these posts. 
 
-
+photo from: https://www.in.gov/localhealth/stjosephcounty/health-equity-epidemiology-and-data-heed/maternal,-infant-health/
 
 
 
