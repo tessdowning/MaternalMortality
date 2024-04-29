@@ -1,0 +1,48 @@
+---
+title: "Bibliography"
+editor: visual
+---
+
+Here is the complete list of sources I used to help my research and write this blog:
+
+Alabama Maternal Mortality Review Program | Alabama Department of Public Health (ADPH). (n.d.). Retrieved March 22, 2024, from https://www.alabamapublichealth.gov/perinatal/maternal-mortality-review.html
+
+Barker, T., Boyle, D., Davis, E., Driscoll, K., Geller, S., Gessner, R., Harms-Pavelski, N., Kane-Willis, K., Kim, J., Klima, C., Koch, A., Loew, J., Madison, B., Martin, J., McCaffrey, D., Mitchell, C., Rodriguez, J., Scott, S., Simanis, L., … Reising, V. (2018). 2018 Illinois Maternal Morbidity and Mortality Report.
+
+Blumenshine, P., Egerter, S., Barclay, C. J., Cubbin, C., & Braveman, P. A. (2010). Socioeconomic Disparities in Adverse Birth Outcomes: A Systematic Review. American Journal of Preventive Medicine, 39(3), 263–272. https://doi.org/10.1016/j.amepre.2010.05.012
+
+Bodenheimer, T., Chen, E., & Bennett, H. D. (2009). Confronting The Growing Burden Of Chronic Disease: Can The U.S. Health Care Workforce Do The Job? Health Affairs, 28(1), 64–74. https://doi.org/10.1377/hlthaff.28.1.64
+
+Brown, P., & Canzoneri, B. (2021). Arkansas maternal mortality review committee.
+Changes to expect after a C-section. (n.d.). Mayo Clinic. Retrieved April 28, 2024, from https://www.mayoclinic.org/healthy-lifestyle/labor-and-delivery/in-depth/c-section-recovery/art-20047310
+
+COVID-19 Timeline. (n.d.). Retrieved March 22, 2024, from https://www.tn.gov/governor/covid-19/covid19timeline.html
+
+C-Section vs. Natural Birth: What Expectant Moms Need to Know. (2021, November 3). Cleveland Clinic. https://health.clevelandclinic.org/why-you-should-carefully-weigh-c-section-against-a-vaginal-birth
+
+Documenting Alabama’s path to recovery from the coronavirus (COVID-19) pandemic, 2020-2021. (n.d.). Ballotpedia. Retrieved March 25, 2024, from https://ballotpedia.org/Documenting_Alabama%27s_path_to_recovery_from_the_coronavirus_(COVID-19)_pandemic,_2020-2021
+
+Fiscus, K. (2020). Alabama & coronavirus timeline: How COVID-19 spread and how the state reacted. Montgomery Advertiser. https://www.montgomeryadvertiser.com/story/news/2020/06/30/alabama-coronavirus-timeline-covid-19-spread-alabama-response/3284467001/
+
+Khoury, R., Bernstein, P. S., Debolt, C., Stone, J., Sutton, D. M., Simpson, L. L., Limaye, M. A., Roman, A. S., Fazzari, M., Penfield, C. A., Ferrara, L., Lambert, C., Nathan, L., Wright, R., Bianco, A., Wagner, B., Goffman, D., Gyamfi-Bannerman, C., Schweizer, W. E., … Dolan, S. M. (2020). Characteristics and Outcomes of 241 Births to Women With Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Infection at Five New York City Medical Centers. Obstetrics & Gynecology, 136(2), 273. https://doi.org/10.1097/AOG.0000000000004025
+
+Metz, T. D., Clifton, R. G., Hughes, B. L., Sandoval, G. J., Grobman, W. A., Saade, G. R., Manuck, T. A., Longo, M., Sowles, A., Clark, K., Simhan, H. N., Rouse, D. J., Mendez-Figueroa, H., Gyamfi-Bannerman, C., Bailit, J. L., Costantine, M. M., Sehdev, H. M., Tita, A. T. N., Macones, G. A., & National Institute of Child Health and Human Development Maternal-Fetal Medicine Units (MFMU) Network. (2022). Association of SARS-CoV-2 Infection With Serious Maternal Morbidity and Mortality From Obstetric Complications. JAMA, 327(8), 748–759. https://doi.org/10.1001/jama.2022.1190
+
+Metz, T. D., Collier, C., & Hollier, L. M. (2020). Maternal Mortality From Coronavirus Disease 2019 (COVID-19) in the United States. Obstetrics and Gynecology, 136(2), 313–316. https://doi.org/10.1097/AOG.0000000000004024
+
+MuckRock/maternal-mortality: A repository of CDC National Center for Health Statistics maternal mortality data and a selection of state data, from Michigan, Minnesota and North Carolina, about maternal deaths. (n.d.). Retrieved February 12, 2024, from https://github.com/MuckRock/maternal-mortality
+
+Paula Braveman. (2023). The Social Determinants of Health and Health Disparities. Oxford University Press.
+
+Pennsylvania—Coronavirus State Actions. (2020, March 9). National Governors Association. https://www.nga.org/coronavirus-state-actions/pennsylvania/
+
+Simeone, R. M., Downing, K. F., Wallace, B., Galang, R. R., DeSisto, C. L., Tong, V. T., Zapata, L. B., Ko, J. Y., & Ellington, S. R. (2021). Changes in adverse maternal, pregnancy, and delivery outcomes among U.S. delivery hospitalizations during the COVID-19 Pandemic, 2019-2020 [Preprint]. In Review. https://doi.org/10.21203/rs.3.rs-949566/v1
+
+Smith, E. R., Oakley, E., Grandner, G. W., Rukundo, G., Farooq, F., Ferguson, K., Baumann, S., Adams Waldorf, K. M., Afshar, Y., Ahlberg, M., Ahmadzia, H., Akelo, V., Aldrovandi, G., Bevilacqua, E., Bracero, N., Brandt, J. S., Broutet, N., Carrillo, J., Conry, J., … Tielsch, J. M. (2023). Clinical risk factors of adverse outcomes among women with COVID-19 in the pregnancy and postpartum period: A sequential, prospective meta-analysis. American Journal of Obstetrics and Gynecology, 228(2), 161–177. https://doi.org/10.1016/j.ajog.2022.08.038
+
+Tai, D. B. G., Sia, I. G., Doubeni, C. A., & Wieland, M. L. (2021). Disproportionate Impact of COVID-19 on Racial and Ethnic Minority Groups in the United States: A 2021 Update. Journal of Racial and Ethnic Health Disparities, 9(6), 2334–2339. https://doi.org/10.1007/s40615-021-01170-w
+
+Villar, J., Ariff, S., Gunier, R. B., Thiruvengadam, R., Rauch, S., Kholin, A., Roggero, P., Prefumo, F., do Vale, M. S., Cardona-Perez, J. A., Maiz, N., Cetin, I., Savasi, V., Deruelle, P., Easter, S. R., Sichitiu, J., Soto Conti, C. P., Ernawati, E., Mhatre, M., … Papageorghiou, A. T. (2021). Maternal and Neonatal Morbidity and Mortality Among Pregnant Women With and Without COVID-19 Infection. JAMA Pediatrics, 175(8), 1–10. https://doi.org/10.1001/jamapediatrics.2021.1050
+
+Villarosa, L. (2018, April 11). Why America’s Black Mothers and Babies Are in a Life-or-Death Crisis. The New York Times. https://www.nytimes.com/2018/04/11/magazine/black-mothers-babies-death-maternal-mortality.html
+
