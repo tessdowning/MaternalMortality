@@ -2,11 +2,11 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/BlogPost1/index.html",
-      "/posts/Bibliography/index.html",
-      "/posts/BlogPost3/index.html",
       "/posts/BlogPost4/index.html",
-      "/posts/BlogPost2/index.html"
+      "/posts/BlogPost3/index.html",
+      "/posts/BlogPost2/index.html",
+      "/posts/BlogPost1/index.html",
+      "/posts/Bibliography/index.html"
     ]
   }
 ]

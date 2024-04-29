@@ -2,7 +2,7 @@
 title: "Maternal Mortality"
 listing:
   contents: posts
-  sort: "title desc"
+  sort: "title"
   type: default
   categories: true
   sort-ui: false
